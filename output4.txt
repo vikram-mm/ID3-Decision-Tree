@@ -1,0 +1,282 @@
+enter number of atributes
+enter number of data elements
+attribute 0
+number of possible values (cardinality) : 
+enter the m values for the attribute :
+attribute 1
+number of possible values (cardinality) : 
+enter the m values for the attribute :
+attribute 2
+number of possible values (cardinality) : 
+enter the m values for the attribute :
+attribute 3
+number of possible values (cardinality) : 
+enter the m values for the attribute :
+attribute 4
+number of possible values (cardinality) : 
+enter the m values for the attribute :
+attribute 5
+number of possible values (cardinality) : 
+enter the m values for the attribute :
+enter yes(1) or no(0) for the m values
+entering select function
+Selected attribute is:5 
+entering select function
+Selected attribute is:2 
+entering select function
+Selected attribute is:4 
+entering select function
+Selected attribute is:0 
+entering select function
+Selected attribute is:1 
+entering select function
+Selected attribute is:3 
+entering select function
+Selected attribute is:-1 
+going for popular choice
+using popular vote
+returning 0
+0
+01entering select function
+Selected attribute is:-1 
+going for popular choice
+using popular vote
+returning 1
+1
+entering select function
+Selected attribute is:-1 
+going for popular choice
+using popular vote
+returning 0
+0
+entering select function
+Selected attribute is:-1 
+going for popular choice
+using popular vote
+returning 0
+0
+entering select function
+Selected attribute is:-1 
+going for popular choice
+using popular vote
+returning 1
+1
+entering select function
+Selected attribute is:-1 
+going for popular choice
+using popular vote
+returning 0
+0
+entering select function
+Selected attribute is:-1 
+going for popular choice
+using popular vote
+returning 0
+0
+entering select function
+Selected attribute is:-1 
+going for popular choice
+using popular vote
+returning 0
+0
+entering select function
+Selected attribute is:-1 
+going for popular choice
+using popular vote
+returning 0
+0
+0 0
+0 0
+0 1
+0 1
+0 1
+0 0
+0 0
+0 0
+0 0
+0 1
+0 1
+0 1
+0 1
+0 0
+0 0
+0 0
+0 1
+0 0
+0 1
+0 0
+0 1
+0 0
+0 1
+0 1
+1 1
+0 0
+0 1
+0 0
+0 0
+1 1
+0 0
+0 0
+1 1
+1 1
+0 0
+1 0
+0 0
+0 1
+0 0
+0 0
+0 1
+0 0
+0 0
+0 0
+0 1
+0 1
+0 0
+0 0
+1 1
+0 0
+0 0
+0 0
+0 0
+0 1
+0 1
+0 0
+1 1
+0 1
+0 0
+0 1
+0 0
+0 0
+0 1
+0 0
+0 0
+1 0
+0 1
+0 1
+0 0
+0 1
+0 0
+0 0
+0 0
+0 0
+0 0
+0 1
+0 0
+0 0
+0 0
+0 1
+0 1
+0 0
+0 1
+1 1
+1 0
+0 1
+0 1
+0 0
+0 0
+1 1
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+1 1
+0 1
+0 0
+0 0
+0 0
+1 0
+0 0
+0 0
+0 0
+0 1
+0 1
+0 0
+1 1
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+1 0
+0 0
+0 0
+0 0
+0 0
+0 1
+0 0
+0 1
+0 0
+0 1
+0 1
+0 0
+0 0
+0 0
+0 0
+0 1
+0 0
+0 0
+0 1
+0 0
+0 0
+1 0
+0 0
+0 1
+0 1
+0 0
+0 0
+0 0
+0 1
+0 0
+0 0
+0 0
+0 0
+1 1
+0 0
+0 0
+0 0
+0 0
+0 1
+0 0
+0 0
+0 0
+0 0
+0 1
+0 0
+0 0
+0 0
+0 1
+1 1
+0 0
+1 0
+0 0
+0 0
+0 0
+0 1
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 1
+0 1
+1 0
+1 1
+0 1
+0 0
+correct 132
+wrong 58
+accuracy : 69.4737%
+precision for survived : 61.9048%
+recall for survived : 20.6349%
